@@ -168,4 +168,7 @@ The pricing engine can be deployed using Pathway and visualized in Bokeh, making
 
 📎 References
 
+[https://pathway.com/developers/user-guide/introduction/first_realtime_app_with_pathway/
+](https://pathway.com/developers/user-guide/deployment/from-jupyter-to-deploy/)
+
 https://pathway.com/developers/user-guide/introduction/first_realtime_app_with_pathway/
